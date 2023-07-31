@@ -89,3 +89,12 @@ namespace Example
         }
     }
 }
+```
+
+## Credits
+
+This code example was created by [Caio Silveira](https://github.com/Caio-Silveira).
+
+Feel free to use and modify the code in your own projects. If you encounter any issues or have suggestions for improvements, do not hesitate to open an issue or submit a pull request.
+
+Happy coding! 😊
